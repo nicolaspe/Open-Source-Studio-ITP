@@ -21,6 +21,7 @@
 * Lin Zhang -- [Feelings about coding](https://github.com/linzhangcs/feelingsaboutcoding)
 * Amitabh Shrivastava -- [Added to carbon allotropes](https://github.com/dariusk/corpora/pull/328)
 * Guillermo Montecinos -- [Add FIFA World Cup history](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/7)
+* Nicolás Escarpentier -- [Add beer categories and styles according to the 2015 BJCP guide](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/9)
 
 # Instructions for Corpora Contribution
 
